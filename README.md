@@ -1,8 +1,7 @@
 # Constitution of the State of California
 
-We, the People of the State of California, grateful to Almighty God for our
-freedom, in order to secure and perpetuate its blessings, do establish this
-Constitution.
+We, the People of the State of California, in order to secure and 
+perpetuate its blessings, do establish this Constitution.
 
 ## Article 1 (DECLARATION OF RIGHTS)
 
